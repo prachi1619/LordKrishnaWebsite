@@ -119,8 +119,8 @@
 
         <div class="box">
             <h3 style="font-size:25px; text-shadow: 2px 2px 7px rgb(250, 17, 95); text-decoration-line: underline;">Contact info</h3>
-            <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
-            <a href="#"> <i class="fas fa-phone"></i> +111-222-3333 </a>
+            <a href="#"> <i class="fas fa-phone"></i> 7845612345 </a>
+            <a href="#"> <i class="fas fa-phone"></i> 8954632178 </a>
             <a href="mailto:priyaprachi905@example.com"> <i class="fas fa-envelope"></i> priyaprachi905@gmail.com </a>
             <a href="#"> <i class="fas fa-map"></i> Uttarpradesh, India - 400104 </a>
         </div>
