@@ -39,4 +39,4 @@ or run the following [git] https://github.com/prachi1619/LordKrishnaWebsite.git 
 - Once the files are on your machine, open the Lord Krishna Website folder in [Visual Studio Code](https://code.visualstudio.com/).
 
 - With the files open in Visual Studio Code, Go to the Xampp and start the apache and mysql then paste this link in the browser :-
-http://localhost/Lord%20Krishna%20Website/index.php
+http://localhost/LordKrishnaWebsite/index.php
